@@ -31,3 +31,7 @@ What will we cover?
 ### Lean resources
 
 Guide?
+
+### Philosophical commentary
+
+- [Is mathematics obsolete?](https://www.andrew.cmu.edu/user/avigad/Talks/obsolete.pdf), Jeremy Avigad
