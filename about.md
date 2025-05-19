@@ -20,9 +20,17 @@ description: >-
 
 Lorem ipsum dolor sit amet, c
 
-## Lecture
+## What will we cover?
 
-Tempus iaculis urna id volutpat lacus lao
+### Lean demo
+
+From Patrick Massot, [Glimpse of Lean](https://github.com/harryrichman/glimpse-of-lean).
+
+### How to use Lean
+
+  - in the browser
+  - local installation
+
 
 ## Resources
 
