@@ -6,6 +6,7 @@ permalink: /:path/
 seo:
   type: Course
   name: Just the Class
+math: mathjax
 ---
 
 # Proofs as programs in Lean
