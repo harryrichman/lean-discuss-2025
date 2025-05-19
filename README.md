@@ -24,12 +24,12 @@ It allows the computer to help verify that your proof is correct.
 
 ### 1. Cauchy interlacing theorem
 
-If $A$ is a symmetric matrix with eigenvalues $\lambda_1 \leq \lambda_2 \leq \cdots \leq \lambda_n$,
-and $B$ is obtained from $A$ by deleting the last row and column,
-then the eigenvalues $\mu_1 \leq \mu_2 \leq \cdots \leq \mu_{n - 1}$ of $B$ must *interlace* the eigenvalues of $A$, i.e. they satisfy
-$$
+If $`A`$ is a symmetric matrix with eigenvalues $`\lambda_1 \leq \lambda_2 \leq \cdots \leq \lambda_n`$,
+and $`B`$ is obtained from $`A`$ by deleting the last row and column,
+then the eigenvalues $`\mu_1 \leq \mu_2 \leq \cdots \leq \mu_{n - 1}`$ of $`B`$ must *interlace* the eigenvalues of $`A`$, i.e. they satisfy
+$$`
 \lambda_i \leq \mu_i \leq \lambda_{i + 1}, \qquad\text{for all $i$}.
-$$
+`$$
 
 ### 2. Newton's theorem on real roots
 
