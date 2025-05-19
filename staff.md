@@ -15,11 +15,11 @@ Staff information is stored in the `_staffers` directory and rendered according 
 {{ staffer }}
 {% endfor %}
 
+## Participants
+
 {% assign participants = site.staffers | where: 'role', 'Participant' %}
 {% assign num_participants = participants | size %}
 {% if participants != 0 %}
-
-## Participants
 
 {% for staffer in participants %}
 {{ staffer }}
