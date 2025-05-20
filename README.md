@@ -68,12 +68,18 @@ See [Newton polygon - main theorem](https://en.wikipedia.org/wiki/Newton_polygon
 
 ## Lean resources
 
-Official documentation 
+Official documentation: [https://leanprover-community.github.io/mathlib4_docs/](https://leanprover-community.github.io/mathlib4_docs/)
 
-### Human-language search
 
-Zulip chat
 
+Human-language search:
+[Zulip chat](https://leanprover.zulipchat.com/)
+
+LLM-assisted human-language search:
+Leansearch https://leansearch.net/
+
+Source code search (type signatures, etc.): 
+Loogle https://loogle.lean-lang.org/
 
 
 ### Philosophical commentary
