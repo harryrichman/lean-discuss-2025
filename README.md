@@ -11,7 +11,7 @@ math: mathjax
 
 # Proofs as programs in Lean
 
-This is the website for a discussion group on using Lean, held at NCTS in May-June 2025.
+This is the website for a discussion group on using Lean, held at [NCTS](https://ncts.ntu.edu.tw/) in May-June 2025.
 
 Lean is a programming language designed for writing mathematical proofs.
 It allows the computer to help verify that your proof is correct.
@@ -22,7 +22,16 @@ It allows the computer to help verify that your proof is correct.
 
 ## Project topics
 
-### 1. Cauchy interlacing theorem
+### 1. Newton's theorem on real roots
+
+If $$p(x) = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n$$ is a polynomial with positive real coefficients $$a_i > 0$$, and $$p(x)$$ has all (negative) real roots, then the coefficient sequence is *ultra log-concave*, i.e.
+
+$$
+2 \log\left(\frac{a_i}{n \choose i}\right) \geq \log\left(\frac{a_{i - 1}}{n \choose {i-1}}\right) + \log\left(\frac{a_{i + 1}}{n \choose {i+1}}\right) \qquad\text{for all $i$}.
+$$
+
+
+### 2. Cauchy interlacing theorem
 
 If $$A$$ is a symmetric matrix with eigenvalues $$\lambda_1 \leq \lambda_2 \leq \cdots \leq \lambda_n$$,
 and $$B$$ is obtained from $$A$$ by deleting the last row and column,
@@ -31,15 +40,6 @@ then the eigenvalues $$\mu_1 \leq \mu_2 \leq \cdots \leq \mu_{n - 1}$$ of $$B$$ 
 $$
 \lambda_i \leq \mu_i \leq \lambda_{i + 1}, \qquad\text{for all $i$}.
 $$
-
-### 2. Newton's theorem on real roots
-
-If $$p(x) = a_0 + a_1 x + a_2 x^2 + \cdots + a_n x^n$$ is a polynomial with positive real coefficients $$a_i > 0$$, and $$p(x)$$ has all (negative) real roots, then the coefficient sequence is *ultra log-concave*, i.e.
-
-$$
-2 \log\left(\frac{a_i}{n \choose i}\right) \geq \log\left(\frac{a_{i - 1}}{n \choose {i-1}}\right) + \log\left(\frac{a_{i + 1}}{n \choose {i+1}}\right) \qquad\text{for all $i$}.
-$$
-
 
 ### 3. Puiseux's theorem
 
@@ -55,10 +55,15 @@ Then, $$k\{\{x\}\}$$ is algebriacally closed.
 
 ### 4. Descartes's rule of signs
 
+See [Descartes's rule of signs](https://en.wikipedia.org/wiki/Descartes%27_rule_of_signs).
 
 ### 5. Sturm's theorem for polynomial roots
 
+See [Sturm's theorem](https://en.wikipedia.org/wiki/Sturm%27s_theorem).
+
 ### 6. Newton's theorem for valued fields
+
+See [Newton polygon - main theorem](https://en.wikipedia.org/wiki/Newton_polygon#Main_theorem).
 
 
 ## Lean resources

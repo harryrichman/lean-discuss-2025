@@ -16,10 +16,6 @@ description: >-
 
 ---
 
-## About
-
-Lorem ipsum dolor sit amet, c
-
 ## What will we cover?
 
 ### Lean demo
@@ -31,6 +27,7 @@ From Patrick Massot, [Glimpse of Lean](https://github.com/harryrichman/glimpse-o
   - in the browser
   - local installation
 
+## Project ideas
 
 ## Resources
 
