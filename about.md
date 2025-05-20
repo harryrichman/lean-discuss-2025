@@ -3,6 +3,7 @@ layout: page
 title: About
 description: >-
     Course policies and information.
+math: mathjax
 ---
 
 # About
@@ -24,7 +25,7 @@ From Patrick Massot, [Glimpse of Lean](https://github.com/harryrichman/glimpse-o
 
 ### How to use Lean
 
-  - in the browser
+  - in the browser, https://live.lean-lang.org/
   - local installation
 
 ## Project ideas
