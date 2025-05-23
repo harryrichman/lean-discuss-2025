@@ -22,14 +22,14 @@ It allows the computer to help verify that your proof is correct.
 
 ## Project topics
 
-For details see [About](about/) section.
+For details, see the [About](about/) section.
 
 1. Newton's theorem on real roots
-
 
 2. Cauchy interlacing theorem
 
 3. Puiseux's theorem
+
 4. Descartes's rule of signs
 
 5. Sturm's theorem for polynomial roots

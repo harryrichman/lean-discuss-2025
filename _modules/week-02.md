@@ -1,5 +1,5 @@
 ---
-title: Basic Data Structures
+title: Using Lean
 ---
 
 May 27
