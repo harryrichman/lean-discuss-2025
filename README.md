@@ -13,11 +13,12 @@ math: mathjax
 
 This is the website for a discussion group on using Lean, held at [NCTS](https://ncts.ntu.edu.tw/) in May-June 2025.
 
+
 Lean is a programming language designed for writing mathematical proofs.
 It allows the computer to help verify that your proof is correct.
 
 
-
+For this discussion group, we will use code in [this github repository](https://github.com/harryrichman/glimpse-of-lean/blob/master/GlimpseOfLean/Introduction.lean).
 
 
 ## Project topics
