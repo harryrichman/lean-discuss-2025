@@ -42,16 +42,19 @@ For details, see the [About](about/) section.
 Official documentation: [https://leanprover-community.github.io/mathlib4_docs/](https://leanprover-community.github.io/mathlib4_docs/)
 
 
-
-Human-language search:
+### Quick search
+- Human-language search:
 [Zulip chat](https://leanprover.zulipchat.com/)
 
-LLM-assisted human-language search:
-Leansearch https://leansearch.net/
+- LLM-assisted human-language search:
+[Leansearch](https://leansearch.net/)
 
-Source code search (type signatures, etc.): 
-Loogle https://loogle.lean-lang.org/
+- Source code search (type signatures, etc.): 
+[Loogle](https://loogle.lean-lang.org/)
 
+### Textbooks
+
+- [Hitchhiker's Guide to Logical Verification](https://lean-forward.github.io/hitchhikers-guide/2023/), by Anne Baanen, Alexander Bentkamp, Jasmin Blanchette, Johannes Hölzl, and Jannis Limperg
 
 ### Philosophical commentary
 
