@@ -7,8 +7,9 @@ May 27
   : slides (to be added)
 
 June 3
-: projects
-  : ...
+: Practice writing statements, using matrices and polynomials
+  : [Polynomial roots](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Algebra/Polynomial/Roots.html),
+  [Matrices](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Matrix/Defs.html)
 
 June 10
 : projects

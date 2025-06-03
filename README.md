@@ -16,6 +16,7 @@ This is the website for a discussion group on using Lean, held at [NCTS](https:/
 
 Lean is a programming language designed for writing mathematical proofs.
 It allows the computer to help verify that your proof is correct.
+In particular, writing a proof using Lean should "make it harder to prove things that are not true." (borrowing words from [Leslie Lamport](https://doi.org/10.1007/s11784-012-0071-6).)
 
 
 For this discussion group, we will use code in [this github repository](https://github.com/harryrichman/glimpse-of-lean).
