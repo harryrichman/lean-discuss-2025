@@ -43,6 +43,7 @@ For details, see the [About](about/) section.
 
 Official documentation: [https://leanprover-community.github.io/mathlib4_docs/](https://leanprover-community.github.io/mathlib4_docs/)
 
+[Tactics reference](https://leanprover-community.github.io/mathlib-manual/html-multi/Tactics/#tactics)
 
 ### Quick search
 - Human-language search:
