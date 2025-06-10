@@ -12,8 +12,8 @@ June 3
   [Matrices](https://leanprover-community.github.io/mathlib4_docs/Mathlib/Data/Matrix/Defs.html)
 
 June 10
-: projects
-  : ...
+: matrices and vectors
+  : [Linear algebra in Mathlib](https://leanprover-community.github.io/theories/linear_algebra.html)
 
 June 17
 : projects
