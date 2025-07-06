@@ -16,8 +16,8 @@ June 10
   : [Linear algebra in Mathlib](https://leanprover-community.github.io/theories/linear_algebra.html)
 
 June 17
-: projects
-  : ...
+: translating statements into Lean
+  : [Recursive functions](https://lean-lang.org/blog/2024-1-11-recursive-definitions-in-lean/)
 
 June 24
 : projects
